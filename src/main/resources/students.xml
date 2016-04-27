@@ -1,0 +1,12 @@
+<students>
+	<student>
+		<name>Prashant</name>
+		<course>Computer Science</course>
+		<country>India</country>
+	</student>
+	<student>
+		<name>Swamy</name>
+		<course>CDAC</course>
+		<country>India</country>
+	</student>
+</students>
